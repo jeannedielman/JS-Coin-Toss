@@ -1,0 +1,16 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	color:#A9A9A9;
+	font-size: 250%;
+}
+
+body {
+	background: #fff;
+	text-align: center;
+	color: #1c1c1c;
+	font-family: "Lucida Console", Monaco, monospace;
+}
